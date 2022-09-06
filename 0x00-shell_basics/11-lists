@@ -1,0 +1,4 @@
+#!/bin/bash
+ll -a 0x00-shell_basics \ 
+ll -a \
+ll -a /boot
